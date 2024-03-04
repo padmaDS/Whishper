@@ -1,0 +1,7 @@
+
+
+openai-whisper
+flask
+moviepy
+pytube3
+setuptools-rust
